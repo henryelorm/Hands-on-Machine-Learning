@@ -1,0 +1,1 @@
+These are my solutions to the examples and lesson codes to the book "Hands-On Machine Learning with SciKit-Learn, Keras and TensorFlow" written by Aurélien Géron.
